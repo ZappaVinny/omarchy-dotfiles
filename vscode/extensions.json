@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "bjarne.ethereal-omarchy",
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
+    "codingyu.laravel-goto-view",
+    "cweijan.dbclient-jdbc",
+    "cweijan.vscode-database-client2",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "laravel.vscode-laravel",
+    "monokai.theme-monokai-pro-vscode",
+    "ms-azuretools.vscode-containers",
+    "ms-azuretools.vscode-docker",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.vscode-python-envs",
+    "nur.just-black",
+    "onecentlin.laravel-blade",
+    "ryannaddy.laravel-artisan",
+    "tahayvr.matteblack",
+    "vscode-icons-team.vscode-icons"
+  ]
+}

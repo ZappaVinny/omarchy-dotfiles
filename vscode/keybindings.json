@@ -1,0 +1,21 @@
+[
+    {
+        "key": "alt+=",
+        "command": "editor.action.fontZoomIn",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+-",
+        "command": "editor.action.fontZoomOut",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+0",
+        "command": "editor.action.fontZoomReset",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+e",
+        "command": "workbench.action.quickOpenPreviousRecentlyUsedEditorInGroup"
+    }
+]

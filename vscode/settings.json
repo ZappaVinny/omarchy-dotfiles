@@ -1,0 +1,21 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+  "workbench.editor.labelFormat": "medium",
+  "workbench.editor.showTabs": "none",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": false,
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "Anonymous Pro",
+  "editor.fontLigatures": true,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden"
+}
+<
