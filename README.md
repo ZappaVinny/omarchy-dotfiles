@@ -12,3 +12,7 @@ This isnt a full Dotfiles or Config import only the ones edited to suite my setu
 
 - Hyprland:
   - Monitors
+
+## Waybar
+
+- Server Status: polls a server list and shows a colored icon with hover tooltip
