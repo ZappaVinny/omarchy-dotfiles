@@ -17,4 +17,5 @@ This isnt a full Dotfiles or Config import only the ones edited to suite my setu
 
 ## Waybar
 
-- Server Status: polls a server list and shows a colored icon with hover tooltip
+~~ - Server Status: polls a server list and shows a colored icon with hover tooltip ~~
+I will make a new one with the plugin features soon
