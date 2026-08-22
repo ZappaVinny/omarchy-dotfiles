@@ -10,8 +10,10 @@ This isnt a full Dotfiles or Config import only the ones edited to suite my setu
 
 ## Dotfiles
 
-- Hyprland:
+- Hyprland (Lua config format, loaded from `~/.config/hypr/`):
   - Monitors
+  - Bindings (includes Chrome-safe fullscreen: `SUPER+F` fills the screen without
+    tripping Chrome's own immersive fullscreen, so tabs stay visible)
 
 ## Waybar
 
